@@ -38,7 +38,7 @@ class About extends Component{
                     database programs in designing databases and tables for web
                     applications.
                   </p>
-                  <p className="card-text">For Detail see my resume: <a href="assets/YigezuBirhane-Resume.pdf" target="_blank">Yigezu Birhane - Resume</a></p>
+                  <p className="card-text">For Detail see my resume: <a href="react-portfolio/assets/YigezuBirhane-Resume.pdf" target="_blank">Yigezu Birhane - Resume</a></p>
                 </div>                                
                 </div> 
 
