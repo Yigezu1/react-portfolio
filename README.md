@@ -2,7 +2,7 @@
 ## Bio
 This is my Portfolio. This is a mobile first portfolio site. Used HTML, CSS and Bootstrap to design my responsive portfolio site.
 
-Deployed Portfolio site: https://yigezu1.github.io/Yigezu1/
+Deployed Portfolio site: https://yigezu1.github.io/react-portfolio/
 
 GitHub repository link: https://github.com/Yigezu1/react-portfolio.git
 
