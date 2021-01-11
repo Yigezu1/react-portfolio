@@ -75,10 +75,10 @@ class App extends Component {
             <div className="main-content">
               { <Navbar />}              
               <Switch>
-              <Route exact path='/yigezu1' component={Home} />
-              <Route path='/yigezu1/contact' component={Contact} />
-              <Route path='/yigezu1/about' component={About} />
-              <Route path='/yigezu1/projects' render={() => project}/>
+              <Route exact path='/react-portfolio' component={Home} />
+              <Route path='/react-portfolio/contact' component={Contact} />
+              <Route path='/react-portfolio/about' component={About} />
+              <Route path='/react-portfolio/projects' render={() => project}/>
               
               {/* use button / iframe */}
               <Route path='/github' component={({history}) => { 
