@@ -6,9 +6,9 @@ Deployed Portfolio site: https://yigezu1.github.io/Yigezu1/
 
 GitHub repository link: https://github.com/Yigezu1/Yigezu1.git
 
-![aboutme](https://user-images.githubusercontent.com/42190239/95386483-628a3d00-08bd-11eb-95e1-5e2c0f801cc2.PNG)
+![Capture1](https://user-images.githubusercontent.com/42190239/104232208-03891680-541e-11eb-9498-3b5f5f8b6a44.PNG)
 
-![portfolio](https://user-images.githubusercontent.com/42190239/95387566-e3960400-08be-11eb-8a34-2b9d65b23445.PNG)
+![Capture2](https://user-images.githubusercontent.com/42190239/104232220-0a178e00-541e-11eb-81b6-2a51f2720568.PNG)
 
 ![contact](https://user-images.githubusercontent.com/42190239/95387592-ef81c600-08be-11eb-8934-196dbb1a9a9f.PNG)
 
