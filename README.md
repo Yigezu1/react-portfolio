@@ -4,7 +4,7 @@ This is my Portfolio. This is a mobile first portfolio site. Used HTML, CSS and 
 
 Deployed Portfolio site: https://yigezu1.github.io/Yigezu1/
 
-GitHub repository link: https://github.com/Yigezu1/Yigezu1.git
+GitHub repository link: https://github.com/Yigezu1/react-portfolio.git
 
 ![Capture1](https://user-images.githubusercontent.com/42190239/104232208-03891680-541e-11eb-9498-3b5f5f8b6a44.PNG)
 
