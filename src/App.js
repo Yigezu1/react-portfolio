@@ -20,7 +20,7 @@ class App extends Component {
       },
       {
         id: 1,
-        image: "assets/images/wwta.png",
+        image: "../assets/images/wwta.png",
         title: "Worldwide Travel Assistant",
         description: "Business and leisure travel to many states or countries can be difficult if you aren’t equipped with the proper attire, or knowledge of specific holidays in that area. The ability to view this information before visiting the region can save the traveler time and effort through pre-planning.",
         doc: "https://github.com/Yigezu1/world-wide-travel-assistant.git",
